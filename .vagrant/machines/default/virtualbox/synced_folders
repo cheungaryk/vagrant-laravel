@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/latest":{"owner":"vagrant","group":"www-data","mount_option":["dmode=775","fmode=644"],"guestpath":"/var/www/html/latest","hostpath":"/Users/templ_000/VirtualBox VMs/laravel/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/templ_000/VirtualBox VMs/laravel","disabled":false,"__vagrantfile":true}}}
